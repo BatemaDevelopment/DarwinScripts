@@ -44,6 +44,8 @@
 		9F0380D8295E8266006FE803 /* SystemKitReborn.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemKitReborn.framework; path = "../Derived Data/SystemKitReborn-ayhgjywbqftyriecabdmvlzkrrso/Build/Products/Release/SystemKitReborn.framework"; sourceTree = "<group>"; };
 		9F0380E2295E847E006FE803 /* SystemKitReborn.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SystemKitReborn.framework; sourceTree = "<group>"; };
 		9F0380F0295E88EC006FE803 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		9F0380F1295F995D006FE803 /* LICENSE */ = {isa = PBXFileReference; explicitFileType = text; name = LICENSE; path = /Volumes/5TB/Programming/Xcode/DarwinScripts/LICENSE; sourceTree = "<absolute>"; };
+		9F0380F2295F9D05006FE803 /* README.md */ = {isa = PBXFileReference; explicitFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		9FFBBC1C295D3858009B8FBE /* DarwinScripts */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DarwinScripts; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FFBBC3C295D3961009B8FBE /* kernel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kernel.swift; sourceTree = "<group>"; };
 		9FFBBC3D295D3961009B8FBE /* mem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mem.swift; sourceTree = "<group>"; };
@@ -76,6 +78,8 @@
 		9FFBBC13295D3858009B8FBE = {
 			isa = PBXGroup;
 			children = (
+				9F0380F2295F9D05006FE803 /* README.md */,
+				9F0380F1295F995D006FE803 /* LICENSE */,
 				9F0380F0295E88EC006FE803 /* .gitignore */,
 				9F0380E2295E847E006FE803 /* SystemKitReborn.framework */,
 				9FFBBC3B295D3961009B8FBE /* DarwinScripts */,
