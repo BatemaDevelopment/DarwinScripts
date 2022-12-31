@@ -2,4 +2,4 @@
 SystemKitReborn.framework/* -linguist-detectable
 
 # -liguist-documentatiom
-SystemKitReborn.framework/* linguist-documentation
+SystemKitReborn.framework/* -linguist-documentation
