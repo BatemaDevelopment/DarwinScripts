@@ -1,5 +1,5 @@
 # linguist-detectable
 SystemKitReborn.framework/* -linguist-detectable
 
-# -liguist-documentatiom
-SystemKitReborn.framework/* -linguist-documentation
+# -liguist-generated
+SystemKitReborn.framework/* -linguist-generated
