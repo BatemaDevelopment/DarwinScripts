@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Volumes/5TB/Programming/Xcode/DarwinScripts/LICENSE">
+   </FileRef>
+   <FileRef
       location = "self:">
    </FileRef>
 </Workspace>
