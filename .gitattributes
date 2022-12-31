@@ -1,2 +1,2 @@
 # -linguist-generated
-SystemKitReborn.framework/Versions/A/Headers -linguist-generated
+SystemKitReborn.framework/Versions/A/Headers/*.h -linguist-generated
