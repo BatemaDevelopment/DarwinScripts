@@ -1,5 +1,2 @@
-# linguist-detectable
-SystemKitReborn.framework/* -linguist-detectable
-
-# -liguist-generated
-SystemKitReborn.framework/* -linguist-generated
+# -linguist-generated
+SystemKitReborn.framework/Versions/A/Headers -linguist-generated
