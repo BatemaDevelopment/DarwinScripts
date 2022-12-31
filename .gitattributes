@@ -1,2 +1,5 @@
+# -linguist-detectable
+SystemKitReborn.framework/Versions/A/Headers/*.h -linguist-detectable
+
 # -linguist-generated
 SystemKitReborn.framework/Versions/A/Headers/*.h -linguist-generated
